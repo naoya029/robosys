@@ -10,6 +10,7 @@ echo 2 > /dev/myled0　で短く30回点滅する。
 echo 3 > /dev/myled0　で長く3回点滅する。
 
 
+
 <使い方>
 
 1.make
