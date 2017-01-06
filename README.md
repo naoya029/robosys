@@ -11,6 +11,7 @@ echo 3 > /dev/myled0　で長く3回点滅する。
 
 
 <使い方>
+
 1.make
 
 2.$sudo insmod myled.ko
